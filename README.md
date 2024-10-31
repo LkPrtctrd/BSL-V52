@@ -17,7 +17,7 @@ I use a zip server from BSDS that I modified which was made by [Сrazor](https:/
 ### Android Client ###
 1: Download the APK here: https://www.mediafire.com/file/68qmx7r54s3taya/com.bsl.v52.apk/file
 
-2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/armeabi-v7a/libBSL.c.so)
+2: Change redirectHost (and redirectPort if you need it) in the frida config (lib/armeabi-v7a/libBSL.config.so)
 
 3: Enjoy playing BSL-V52!
 
